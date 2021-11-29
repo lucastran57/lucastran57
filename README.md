@@ -5,4 +5,4 @@ Hi fellows 👋
 
 Spotify Playing 🎧
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/track/1yvMUkIOTeUNtNWlWRgANS)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/album/1o1ElG9Z0MKQ7IDHhua1fK)
