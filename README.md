@@ -1,5 +1,5 @@
 Hi fellows 👋 
-- 🔭 I’m currently learning Marketing and Java
+- 🔭 I’m currently learning Marketing and Front-End Website
 - 💬 Ask me about every thing I learned
 - ⚡ Fun fact: I share... a lot!
 
